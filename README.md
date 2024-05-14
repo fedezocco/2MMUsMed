@@ -12,7 +12,9 @@ Demo1 shows the real-time detection of inhalers, whereas Demo2 shows the real-ti
 
 
 ### Dataset
-To respect the file size limit of GitHub, the dataset 5IPP has been split into 4 parts. To prepare 5IPP for use, follow the instructions given in: Dataset => 5IPP => JPEGImages => ReadMe.txt.
+To respect the file size limit of GitHub, the dataset 5IPP has been split into 4 parts. To prepare 5IPP for use:
+1. Unzip 5IPP folder and use the unzipped 5IPP as the dataset folder
+2. Follow the instructions given in: 5IPP (unzipped) => JPEGImages => ReadMe.txt.
 
 
 ### Code 
