@@ -1,6 +1,9 @@
 # Synchronized Object Detection for Autonomous Sorting, Mapping, and Quantification of Medical Materials
 This repository contains the code, the dataset, and the demo videos of the paper: Zocco, F., Lake, D., and Rahimifard, S., 2024. Synchronized object detection for autonomous sorting, mapping, and quantification of medical materials. arXiv preprint arXiv:2405.06821.
 
+![mainFig](https://github.com/fedezocco/2MMUsMed/assets/62107909/fcb29c72-f323-44f6-a887-d8ed2407d67f)
+
+
 ## Description of Folders
 ### Demo Videos
 The 2 demo videos are inside the folder "Demo_videos". To respect the file size limit of GitHub, they have been split into parts. Specifically, Demo1 is made of 2 parts, whereas Demo2 is made of 7 parts. The parts can be merged into a single video using one of the many tools available. 
