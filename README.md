@@ -18,7 +18,7 @@ How to use the code:
 2. Connect laptop and both Jetson Nanos to the Netgear network switch using Ethernet cables (3 cables in total)
 3. Each Jetson Nano is connected to a camera, a mouse, a keyboard, a power supply, an Ethernet cable, and a monitor
 4. On the laptop, run “receiver_v9.py”
-5. On the Terminal of each Nano, run:
+5. On the command prompt of each Nano, run:
 * cd jetson-inference
 * python detectnet-mmu_v3.py --model=python/training/detection/ssd/models/5IPPnet/ssd-mobilenet.onnx --labels=python/training/detection/ssd/models/5IPPnet/labels.txt --input-blob=input_0 --output-cvg=scores -- 
       output-bbox=boxes /dev/video0 
